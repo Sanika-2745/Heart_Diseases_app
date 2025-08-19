@@ -69,8 +69,12 @@ Input:
 Model Output:
 "❤️ No Heart Disease Detected" or "⚠️ Heart Disease Detected"
 
-💻 How to Run
+📚 Learning Outcomes
 
-Clone the repository:
+Built a machine learning model to predict health outcomes
 
- https://github.com/Sanika-2745/Heart-Disease-Prediction.git
+Learned data preprocessing and feature scaling techniques
+
+Understood the importance of model evaluation and accuracy metrics
+
+Practiced real-time prediction implementation
