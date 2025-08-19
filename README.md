@@ -73,4 +73,4 @@ Model Output:
 
 Clone the repository:
 
-git clone https://github.com/Sanika-2745/Heart-Disease-Prediction.git
+ https://github.com/Sanika-2745/Heart-Disease-Prediction.git
